@@ -1,0 +1,29 @@
+Usecase for a Bike Race Series Tracking App as an exercise for learning
+Node.JS. I'll use the idea Andrew P. had for our MDM PaaS discussions.
+
+Functionality requirements:
+. Web Site Application for:
+    . Importing Race Sponser results in a CSV format
+    . Query Page to select specific queries and create custom queries
+    . Presentation page of query results.
+    . Need: 
+	. main Welcome page
+	. List of races pages
+	. Import Race Event data (CSV)
+	. Search / query page
+	. Result Presentation Page(s) 
+    . For each racer in CSV import file,provide:
+	. Name
+	. Address
+	. contact phone
+	. contact email
+	. Age
+	. Gender
+	. Racer Category(1-5)
+	. State Racer ID
+	. Racing Event
+	. Race event Date
+	. Race Event Finish Position
+	. Race Event ID
+	. Race Event Start time
+	. Race Event Finish time:
